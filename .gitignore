@@ -23,3 +23,7 @@ gradle-app.setting
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
 
+/basics-cglib/build/
+/basics-cglib/out/
+/basics-jvm/build/
+/basics-jvm/out/
