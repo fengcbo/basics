@@ -1,5 +1,9 @@
 package com.fengcbo.jvm;
 
+/**
+ * -XX:SurvivorRatio=8
+ * -Xms600M -Xmx600M -Xmn300M
+ */
 public class JvmMemoryTest {
 
     public static void main(String[] args) {
